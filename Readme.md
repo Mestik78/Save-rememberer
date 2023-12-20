@@ -33,6 +33,11 @@ message = '''
 
 ## Installation
 You can download the main script and run it yourself. Although I would reccomend to start it automatically.
+### Dependencies
+In order to use this script you need to install psutil.
+```python
+pip intall psutil
+```
 ### Windows
 You can save the file under `shell:startup` (`C:\Users\USER\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`).
 ### Linux
