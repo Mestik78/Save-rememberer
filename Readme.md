@@ -1,4 +1,4 @@
-# Save Rememberer
+# Save reminder
 by [Mestik78](github.com/Mestik78)
 Automatic save notification.
 
