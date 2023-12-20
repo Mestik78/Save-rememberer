@@ -1,7 +1,7 @@
 ##- Settings -##
 timerSecs = 10
 notificationDurationSecs = 1
-lookupServices = ["Photoshop", "Maya", "3dMax"]
+lookupServices = ["Photoshop", "Maya", "3dsMax"]
 
 message = '''
  ▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄ ▄▄▄▄▄▄   ▄▄▄       ▄    ▄▄▄▄▄▄▄ 
